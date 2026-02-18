@@ -21,18 +21,6 @@ This project uses [Unsloth](https://github.com/unslothai/unsloth) for efficient 
 - Unsloth
 - Frends documentation/samples
 
-## Installation
-
-```bash
-pip install unsloth torch
-```
-
-## Usage
-
-```bash
-python train.py
-```
-
 ## License
 
 This project is licensed under the Apache License 2.0 - see [LICENSE](LICENSE) file for details.
